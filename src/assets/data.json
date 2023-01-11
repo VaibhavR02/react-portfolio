@@ -14,14 +14,7 @@
       "url": "https://netflix-react-alpha-khaki.vercel.app/",
       "imgSrc": "https://cdn.pixabay.com/photo/2018/10/09/00/21/netflix-3733812__340.jpg"
     },
-    {
-      "date": "9/1/2022",
-      "title": "PORTFOLIO",
-      "description": "My Personal Portfolio",
-      "url": "/",
 
-      "imgSrc": "https://images.pexels.com/photos/10402657/pexels-photo-10402657.jpeg"
-    },
     {
       "date": "8/1/2023",
       "title": "Shopping Cart",
@@ -39,26 +32,11 @@
     },
 
     {
-      "date": "5/1/2023",
-      "title": "Simple website",
-      "description": "This is Sample react website",
-      "url": "https://simpleone.vercel.app/",
-      "imgSrc": "https://images.pexels.com/photos/131778/pexels-photo-131778.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
-    },
-
-    {
       "date": "26/12/2022",
       "title": "Amazona",
       "description": "This is the replica of amazon shopping website with same functionality",
       "url": "https://github.com/VaibhavR02/amazon-dynamic",
       "imgSrc": "https://images.pexels.com/photos/5076510/pexels-photo-5076510.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
-    },
-    {
-      "date": "",
-      "title": "Github",
-      "description": "To see all the projects/repositories click on demo",
-      "url": "https://github.com/VaibhavR02/",
-      "imgSrc": "https://cdn.pixabay.com/photo/2017/08/05/11/24/logo-2582757_960_720.png"
     }
   ]
 }
