@@ -38,21 +38,21 @@ const Testimonial = () => {
 
       <section>
         <TestimonialCard
-          name={'Nikhil'}
-          feedback={
-            'You are very hardworking person,i hope you continue it for long.'
-          }
-        />
-
-        <TestimonialCard
-          name={'Kanchan'}
-          feedback={'Good keep it up! you have a great future'}
-        />
-
-        <TestimonialCard
           name={'Bhagyashri'}
           feedback={
             'Your projects are  really amazing and codes are very structured'
+          }
+        />
+        <TestimonialCard
+          name={'Shruti'}
+          feedback={
+            'Thats great! Keep working on it. I’m amazed by how well you do this. '
+          }
+        />
+        <TestimonialCard
+          name={'Sachin'}
+          feedback={
+            'The work you’ve put into this project is very high level. Keep up the good work!. And all the best buddy '
           }
         />
       </section>

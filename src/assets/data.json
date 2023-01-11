@@ -1,41 +1,64 @@
 {
   "projects": [
     {
-      "date": "15/10/2022",
+      "date": "11/1/2023",
+      "title": "Chat App",
+      "description": "This is the simple chat app in which you have login,logout funcion and you can also chat with other person",
+      "url": "https://netflix-react-alpha-khaki.vercel.app/",
+      "imgSrc": "https://images.pexels.com/photos/3771127/pexels-photo-3771127.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+    },
+    {
+      "date": "10/1/2023",
+      "title": "NETFLIX",
+      "description": "This is the Netflix Frontend UI in which  data fetched from movie api with video playing function",
+      "url": "https://netflix-react-alpha-khaki.vercel.app/",
+      "imgSrc": "https://cdn.pixabay.com/photo/2018/10/09/00/21/netflix-3733812__340.jpg"
+    },
+    {
+      "date": "9/1/2022",
+      "title": "PORTFOLIO",
+      "description": "My Personal Portfolio",
+      "url": "/",
+
+      "imgSrc": "https://images.pexels.com/photos/10402657/pexels-photo-10402657.jpeg"
+    },
+    {
+      "date": "8/1/2023",
+      "title": "Shopping Cart",
+      "description": "This is the simple Cart app , in the the cart function with redux toolkit",
+      "url": "https://react-cart-theta.vercel.app/",
+      "imgSrc": "https://images.pexels.com/photos/7195232/pexels-photo-7195232.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+    },
+
+    {
+      "date": "7/1/2023",
       "title": "XCrypto",
-      "description": "This is the sample description about the project details. The more details the more details and evenually more details because I don't have anything to write",
+      "description": "This is the Crypto app with data  real time data fetching from crypo api",
       "url": "https://react-crypto-zeta.vercel.app/",
       "imgSrc": "https://cdn.pixabay.com/photo/2017/12/12/12/44/bitcoin-3014614_960_720.jpg"
     },
+
     {
-      "date": "07/10/2022",
-      "title": "Simple react website",
-      "description": "This is the sample description about the project details. The more details the more details and evenually more details because I don't have anything to write",
+      "date": "5/1/2023",
+      "title": "Simple website",
+      "description": "This is Sample react website",
       "url": "https://simpleone.vercel.app/",
-      "imgSrc": "https://cdn.pixabay.com/photo/2018/06/07/16/49/virtual-3460451_960_720.jpg"
+      "imgSrc": "https://images.pexels.com/photos/131778/pexels-photo-131778.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
     },
 
     {
-      "date": "11/10/2022",
+      "date": "26/12/2022",
       "title": "Amazona",
-      "description": "This is the sample description about the project details. The more details the more details and evenually more details because I don't have anything to write",
+      "description": "This is the replica of amazon shopping website with same functionality",
       "url": "https://github.com/VaibhavR02/amazon-dynamic",
-      "imgSrc": "https://cdn.pixabay.com/photo/2016/11/21/12/51/mobile-phone-1845233__340.jpg"
-    },
-
-    {
-      "date": "17/10/2022",
-      "title": "REACT CART",
-      "description": "This is the sample description about the project details. The more details the more details and evenually more details because I don't have anything to write",
-      "url": "https://react-cart-theta.vercel.app/",
-      "imgSrc": "https://cdn.pixabay.com/photo/2019/12/14/08/36/shopping-4694470_960_720.jpg"
+      "imgSrc": "https://images.pexels.com/photos/5076510/pexels-photo-5076510.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
     },
     {
-      "date": "20/10/2022",
-      "title": "PORTFOLIO",
-      "description": "This is the sample description about the project details. The more details the more details and evenually more details because I don't have anything to write",
-      "url": "/",
-      "imgSrc": "https://cdn.pixabay.com/photo/2020/03/19/21/25/cactus-4948833_960_720.jpg"
+      "date": "",
+      "title": "Github",
+      "description": "To see all the projects/repositories click on demo",
+      "url": "https://github.com/VaibhavR02/",
+      "imgSrc": "https://cdn.pixabay.com/photo/2017/08/05/11/24/logo-2582757_960_720.png"
     }
   ]
 }
